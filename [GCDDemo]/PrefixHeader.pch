@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  [GCDDemo]
+//
+//  Created by 刘隆昌 on 14-12-29.
+//  Copyright (c) 2014年 刘隆昌. All rights reserved.
+//
+
+#ifndef _GCDDemo__PrefixHeader_pch
+#define _GCDDemo__PrefixHeader_pch
+
+#define IMAGEURL @"http://f.hiphotos.baidu.com/image/pic/item/42166d224f4a20a49b0c53fd93529822720ed0fe.jpg"
+
+
+#import "UIImageView+DispatchLoad.h"
+#import "GetPlist.h"
+
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
